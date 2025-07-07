@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miloud Bendjedda</h1>
 <h3 align="center">A passionate jr.full-stack developer with Next.js & React.js && React Native</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miloud73" alt="miloud73" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://miloud-bendjedda.me/](https://miloud-bendjedda.me/)
 
 - 💬 Ask me about **React , Next.js**
