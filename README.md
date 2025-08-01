@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at **https://modern-portfolio-miloud-bendjeddas-projects.vercel.app/**
 
-- 💬 Ask me about **React , Next.js**
+- 💬 Ask me about **React , Next.js , Reach Native**
 
 - 📫 How to reach me **https://www.linkedin.com/in/miloud-bendjedda73/**
 
