@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/miloud_ben73" target="blank"><img src="https://img.shields.io/twitter/follow/miloud_ben73?logo=twitter&style=for-the-badge" alt="miloud_ben73" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://modern-portfolio-miloud-bendjeddas-projects.vercel.app/](https://modern-portfolio-miloud-bendjeddas-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://modern-portfolio-miloud-bendjeddas-projects.vercel.app/](https://miloud.online/)
 
 - 💬 Ask me about **React , Next.js**
 
