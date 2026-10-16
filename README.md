@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React , Next.js**
 
-- 📫 How to reach me **contacte.miloud@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/miloud-bendjedda73/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
